@@ -1,17 +1,17 @@
 # 💫 About Me:
-I am a final-year B.Tech (CSE) student at Inderprastha Engineering College (Expected 2027) with strong Data Structures & Algorithms fundamentals and hands-on experience building backend APIs, ML pipelines, and cloud-deployed applications.[cite: 1]<br><br>
+I am a final-year B.Tech (CSE) student at Inderprastha Engineering College (Expected 2027) with strong Data Structures & Algorithms fundamentals and hands-on experience building backend APIs, ML pipelines, and cloud-deployed applications.<br><br>
 
-I actively practice competitive programming using C++ and have solved 250+ problems on LeetCode, alongside maintaining verified 60-day GeeksforGeeks and 30-day Unstop POTD streaks.[cite: 1]<br><br>
+I actively practice competitive programming using C++ and have solved 250+ problems on LeetCode, alongside maintaining verified 60-day GeeksforGeeks and 30-day Unstop POTD streaks.<br><br>
 
-My experience includes building full-stack web applications and deploying real-world projects live on the web.[cite: 1] Notably, I built a Store Intelligence platform using FastAPI, React 19, and TypeScript containerized with Docker for the Purplle Tech Challenge 2026,[cite: 1] and engineered a semantic Neural Search Engine using Sentence Transformers.[cite: 1] Additionally, I have completed cloud infrastructure and machine learning internships through Microsoft Azure and Edunet/AICTE.[cite: 1]<br><br>
+My experience includes building full-stack web applications and deploying real-world projects live on the web. Notably, I built a Store Intelligence platform using FastAPI, React 19, and TypeScript containerized with Docker for the Purplle Tech Challenge 2026, and engineered a semantic Neural Search Engine using Sentence Transformers.Additionally, I have completed cloud infrastructure and machine learning internships through Microsoft Azure and Edunet Foundation & AICTE.<br><br>
 
-I am currently seeking Software Engineering and Full-Stack Development opportunities where I can leverage my cloud, backend, and algorithmic skills to contribute to impactful engineering teams.[cite: 1]<br><br>
+I am currently seeking Software Engineering and Full-Stack Development opportunities where I can leverage my cloud, backend, and algorithmic skills to contribute to impactful engineering teams.<br><br>
 
 ### 🛠️ Skills:
-• **Languages:** C++, Python, TypeScript, JavaScript[cite: 1]<br>
-• **Core CS:** Data Structures & Algorithms (DSA), OOP, DBMS, Operating Systems, Computer Networks[cite: 1]<br>
-• **Frontend & Backend:** React 19, Vite, FastAPI, Pydantic, REST APIs[cite: 1]<br>
-• **Cloud & Tools:** Docker, GCP Cloud Run, Azure (IaaS/PaaS), Git, GitHub[cite: 1]
+• **Languages:** C++, Python, TypeScript, JavaScript<br>
+• **Core CS:** Data Structures & Algorithms (DSA), OOP, DBMS, Operating Systems, Computer Networks<br>
+• **Frontend & Backend:** React 19, Vite, FastAPI, Pydantic, REST APIs<br>
+• **Cloud & Tools:** Docker, GCP Cloud Run, Azure (IaaS/PaaS), Git, GitHub
 
 
 ## 🌐 Socials:

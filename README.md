@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a final-year B.Tech (CSE) student at Inderprastha Engineering College (Expected 2027) with strong Data Structures & Algorithms fundamentals and hands-on experience building backend APIs, ML pipelines, and cloud-deployed applications.<br><br>
 
-I actively practice competitive programming using C++ and have solved 250+ problems on LeetCode, alongside maintaining verified 60-day GeeksforGeeks and 30-day Unstop POTD streaks.<br><br>
+I actively practice competitive programming using C++ and have solved 350+ problems on LeetCode, alongside maintaining verified 60-day GeeksforGeeks and 30-day Unstop POTD streaks.<br><br>
 
 My experience includes building full-stack web applications and deploying real-world projects live on the web. Notably, I built a Store Intelligence platform using FastAPI, React 19, and TypeScript containerized with Docker for the Purplle Tech Challenge 2026, and engineered a semantic Neural Search Engine using Sentence Transformers.Additionally, I have completed cloud infrastructure and machine learning internships through Microsoft Azure and Edunet Foundation & AICTE.<br><br>
 
